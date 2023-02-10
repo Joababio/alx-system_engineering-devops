@@ -1,1 +1,1 @@
-wrote this script to create an empty file hello
+this is to help you know how to execute a code in the commandline file hello
