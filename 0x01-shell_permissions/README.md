@@ -1,1 +1,1 @@
-Betty is now the new user
+Betty is now the new owner of the file hello
